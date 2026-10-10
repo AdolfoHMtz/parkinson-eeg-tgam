@@ -1,0 +1,4 @@
+sello,etiqueta,fecha,puerto_com,archivo_raw,archivo_bandas,sujeto
+2026-04-06_04-36-37,sano,2026-04-06 04:36:37,COM5,sesion_2026-04-06_04-36-37_raw.csv,sesion_2026-04-06_04-36-37_bandas.csv,local_01
+2026-04-20_12-27-18,sano,2026-04-20 12:27:18,autodetectado,sesion_2026-04-20_12-27-18_raw.csv,sesion_2026-04-20_12-27-18_bandas.csv,local_01
+2026-04-21_16-46-26,sano,2026-04-21 16:46:26,autodetectado,sesion_2026-04-21_16-46-26_raw.csv,sesion_2026-04-21_16-46-26_bandas.csv,local_01

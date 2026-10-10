@@ -1,0 +1,51 @@
+{
+  "entrada": ".\\datos\\procesados\\rama_b_gaf_v2.0s_o50_balanceado\\datos.npz",
+  "salida": "datos/modelos_entrenados/cnn_rama_b_v20260628_190547",
+  "umbral_validacion": {
+    "threshold": 0.7,
+    "f1": 0.747308423052565,
+    "balanced_accuracy": 0.6736750114119597
+  },
+  "metricas_test_raw": {
+    "accuracy": 0.631408154964447,
+    "loss": 0.21329638361930847,
+    "pr_auc": 0.875572144985199,
+    "precision": 0.631408154964447,
+    "recall": 1.0,
+    "roc_auc": 0.8016733527183533
+  },
+  "metricas_test_umbral_calibrado": {
+    "threshold": 0.7,
+    "accuracy": 0.7060350421804024,
+    "balanced_accuracy": 0.714818587785707,
+    "precision": 0.8225806451612904,
+    "recall": 0.6813977389516958,
+    "f1": 0.7453625632377741,
+    "roc_auc": 0.8022650290230592,
+    "pr_auc": 0.8760811341387662,
+    "confusion_matrix": [
+      [
+        425,
+        143
+      ],
+      [
+        310,
+        663
+      ]
+    ]
+  },
+  "clases": {
+    "train": {
+      "0": 2092,
+      "1": 4140
+    },
+    "val": {
+      "0": 389,
+      "1": 856
+    },
+    "test": {
+      "0": 568,
+      "1": 973
+    }
+  }
+}

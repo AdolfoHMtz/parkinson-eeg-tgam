@@ -1,0 +1,51 @@
+{
+  "entrada": "datos/procesados/rama_b_gaf_v2.0s_o50_por_paciente/datos.npz",
+  "salida": "datos/modelos_entrenados/cnn_rama_b_por_paciente_v20261009_200737",
+  "umbral_validacion": {
+    "threshold": 0.6599999999999999,
+    "f1": 0.5936811168258633,
+    "balanced_accuracy": 0.6011210159528031
+  },
+  "metricas_test_raw": {
+    "accuracy": 0.5808117985725403,
+    "loss": 0.2111988216638565,
+    "pr_auc": 0.9232754707336426,
+    "precision": 0.5808117985725403,
+    "recall": 1.0,
+    "roc_auc": 0.8976267576217651
+  },
+  "metricas_test_umbral_calibrado": {
+    "threshold": 0.6599999999999999,
+    "accuracy": 0.8273062730627306,
+    "balanced_accuracy": 0.8314926087656818,
+    "precision": 0.8867132867132868,
+    "recall": 0.8055908513341804,
+    "f1": 0.844207723035952,
+    "roc_auc": 0.8993883887825044,
+    "pr_auc": 0.9243245079553893,
+    "confusion_matrix": [
+      [
+        487,
+        81
+      ],
+      [
+        153,
+        634
+      ]
+    ]
+  },
+  "clases": {
+    "train": {
+      "0": 2092,
+      "1": 4331
+    },
+    "val": {
+      "0": 389,
+      "1": 851
+    },
+    "test": {
+      "0": 568,
+      "1": 787
+    }
+  }
+}

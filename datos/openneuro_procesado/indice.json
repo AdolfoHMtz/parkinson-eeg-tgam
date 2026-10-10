@@ -1,0 +1,285 @@
+{
+  "dataset": "ds002778",
+  "version": "1.0.5",
+  "canal_principal": "Fp1",
+  "fs": 512,
+  "solo_fp1": true,
+  "grabaciones": [
+    {
+      "sujeto": "pd3",
+      "sesion": "off",
+      "etiqueta": 1,
+      "archivo": "sub-pd3_ses-off.npz"
+    },
+    {
+      "sujeto": "pd3",
+      "sesion": "on",
+      "etiqueta": 1,
+      "archivo": "sub-pd3_ses-on.npz"
+    },
+    {
+      "sujeto": "pd5",
+      "sesion": "off",
+      "etiqueta": 1,
+      "archivo": "sub-pd5_ses-off.npz"
+    },
+    {
+      "sujeto": "pd5",
+      "sesion": "on",
+      "etiqueta": 1,
+      "archivo": "sub-pd5_ses-on.npz"
+    },
+    {
+      "sujeto": "pd6",
+      "sesion": "off",
+      "etiqueta": 1,
+      "archivo": "sub-pd6_ses-off.npz"
+    },
+    {
+      "sujeto": "pd6",
+      "sesion": "on",
+      "etiqueta": 1,
+      "archivo": "sub-pd6_ses-on.npz"
+    },
+    {
+      "sujeto": "pd9",
+      "sesion": "off",
+      "etiqueta": 1,
+      "archivo": "sub-pd9_ses-off.npz"
+    },
+    {
+      "sujeto": "pd9",
+      "sesion": "on",
+      "etiqueta": 1,
+      "archivo": "sub-pd9_ses-on.npz"
+    },
+    {
+      "sujeto": "pd11",
+      "sesion": "off",
+      "etiqueta": 1,
+      "archivo": "sub-pd11_ses-off.npz"
+    },
+    {
+      "sujeto": "pd11",
+      "sesion": "on",
+      "etiqueta": 1,
+      "archivo": "sub-pd11_ses-on.npz"
+    },
+    {
+      "sujeto": "pd12",
+      "sesion": "off",
+      "etiqueta": 1,
+      "archivo": "sub-pd12_ses-off.npz"
+    },
+    {
+      "sujeto": "pd12",
+      "sesion": "on",
+      "etiqueta": 1,
+      "archivo": "sub-pd12_ses-on.npz"
+    },
+    {
+      "sujeto": "pd13",
+      "sesion": "off",
+      "etiqueta": 1,
+      "archivo": "sub-pd13_ses-off.npz"
+    },
+    {
+      "sujeto": "pd13",
+      "sesion": "on",
+      "etiqueta": 1,
+      "archivo": "sub-pd13_ses-on.npz"
+    },
+    {
+      "sujeto": "pd14",
+      "sesion": "off",
+      "etiqueta": 1,
+      "archivo": "sub-pd14_ses-off.npz"
+    },
+    {
+      "sujeto": "pd14",
+      "sesion": "on",
+      "etiqueta": 1,
+      "archivo": "sub-pd14_ses-on.npz"
+    },
+    {
+      "sujeto": "pd16",
+      "sesion": "off",
+      "etiqueta": 1,
+      "archivo": "sub-pd16_ses-off.npz"
+    },
+    {
+      "sujeto": "pd16",
+      "sesion": "on",
+      "etiqueta": 1,
+      "archivo": "sub-pd16_ses-on.npz"
+    },
+    {
+      "sujeto": "pd17",
+      "sesion": "off",
+      "etiqueta": 1,
+      "archivo": "sub-pd17_ses-off.npz"
+    },
+    {
+      "sujeto": "pd17",
+      "sesion": "on",
+      "etiqueta": 1,
+      "archivo": "sub-pd17_ses-on.npz"
+    },
+    {
+      "sujeto": "pd19",
+      "sesion": "off",
+      "etiqueta": 1,
+      "archivo": "sub-pd19_ses-off.npz"
+    },
+    {
+      "sujeto": "pd19",
+      "sesion": "on",
+      "etiqueta": 1,
+      "archivo": "sub-pd19_ses-on.npz"
+    },
+    {
+      "sujeto": "pd22",
+      "sesion": "off",
+      "etiqueta": 1,
+      "archivo": "sub-pd22_ses-off.npz"
+    },
+    {
+      "sujeto": "pd22",
+      "sesion": "on",
+      "etiqueta": 1,
+      "archivo": "sub-pd22_ses-on.npz"
+    },
+    {
+      "sujeto": "pd23",
+      "sesion": "off",
+      "etiqueta": 1,
+      "archivo": "sub-pd23_ses-off.npz"
+    },
+    {
+      "sujeto": "pd23",
+      "sesion": "on",
+      "etiqueta": 1,
+      "archivo": "sub-pd23_ses-on.npz"
+    },
+    {
+      "sujeto": "pd26",
+      "sesion": "off",
+      "etiqueta": 1,
+      "archivo": "sub-pd26_ses-off.npz"
+    },
+    {
+      "sujeto": "pd26",
+      "sesion": "on",
+      "etiqueta": 1,
+      "archivo": "sub-pd26_ses-on.npz"
+    },
+    {
+      "sujeto": "pd28",
+      "sesion": "off",
+      "etiqueta": 1,
+      "archivo": "sub-pd28_ses-off.npz"
+    },
+    {
+      "sujeto": "pd28",
+      "sesion": "on",
+      "etiqueta": 1,
+      "archivo": "sub-pd28_ses-on.npz"
+    },
+    {
+      "sujeto": "hc1",
+      "sesion": "hc",
+      "etiqueta": 0,
+      "archivo": "sub-hc1_ses-hc.npz"
+    },
+    {
+      "sujeto": "hc2",
+      "sesion": "hc",
+      "etiqueta": 0,
+      "archivo": "sub-hc2_ses-hc.npz"
+    },
+    {
+      "sujeto": "hc4",
+      "sesion": "hc",
+      "etiqueta": 0,
+      "archivo": "sub-hc4_ses-hc.npz"
+    },
+    {
+      "sujeto": "hc7",
+      "sesion": "hc",
+      "etiqueta": 0,
+      "archivo": "sub-hc7_ses-hc.npz"
+    },
+    {
+      "sujeto": "hc8",
+      "sesion": "hc",
+      "etiqueta": 0,
+      "archivo": "sub-hc8_ses-hc.npz"
+    },
+    {
+      "sujeto": "hc10",
+      "sesion": "hc",
+      "etiqueta": 0,
+      "archivo": "sub-hc10_ses-hc.npz"
+    },
+    {
+      "sujeto": "hc18",
+      "sesion": "hc",
+      "etiqueta": 0,
+      "archivo": "sub-hc18_ses-hc.npz"
+    },
+    {
+      "sujeto": "hc20",
+      "sesion": "hc",
+      "etiqueta": 0,
+      "archivo": "sub-hc20_ses-hc.npz"
+    },
+    {
+      "sujeto": "hc21",
+      "sesion": "hc",
+      "etiqueta": 0,
+      "archivo": "sub-hc21_ses-hc.npz"
+    },
+    {
+      "sujeto": "hc24",
+      "sesion": "hc",
+      "etiqueta": 0,
+      "archivo": "sub-hc24_ses-hc.npz"
+    },
+    {
+      "sujeto": "hc25",
+      "sesion": "hc",
+      "etiqueta": 0,
+      "archivo": "sub-hc25_ses-hc.npz"
+    },
+    {
+      "sujeto": "hc29",
+      "sesion": "hc",
+      "etiqueta": 0,
+      "archivo": "sub-hc29_ses-hc.npz"
+    },
+    {
+      "sujeto": "hc30",
+      "sesion": "hc",
+      "etiqueta": 0,
+      "archivo": "sub-hc30_ses-hc.npz"
+    },
+    {
+      "sujeto": "hc31",
+      "sesion": "hc",
+      "etiqueta": 0,
+      "archivo": "sub-hc31_ses-hc.npz"
+    },
+    {
+      "sujeto": "hc32",
+      "sesion": "hc",
+      "etiqueta": 0,
+      "archivo": "sub-hc32_ses-hc.npz"
+    },
+    {
+      "sujeto": "hc33",
+      "sesion": "hc",
+      "etiqueta": 0,
+      "archivo": "sub-hc33_ses-hc.npz"
+    }
+  ]
+}
