@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editores / SO
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# ---------------------------------------------------------------------------
+# Datos: solo se versiona lo pequeno y reproducible.
+# Todo lo demas se regenera con el pipeline (ver datos/README.md).
+# ---------------------------------------------------------------------------
+datos/*
+!datos/README.md
+
+# Sesiones TGAM de ejemplo (grabaciones propias, con consentimiento)
+!datos/sesiones_grabadas/
+
+# OpenNeuro ds002778 reducido a Fp1 @ 512 Hz (~11 MB, licencia CC0)
+!datos/openneuro_procesado/
+
+# Metricas y graficas de cada corrida (los .keras van como GitHub Release)
+!datos/modelos_entrenados/
+datos/modelos_entrenados/**/*.keras
+
+# Salidas generadas
+resultados/
+
+# Documentos Word internos del servicio social
+reportes/*.docx

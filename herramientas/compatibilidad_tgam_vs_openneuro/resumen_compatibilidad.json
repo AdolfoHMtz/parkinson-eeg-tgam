@@ -1,0 +1,246 @@
+{
+  "locales": [
+    {
+      "duracion_seg": 30.115234375,
+      "media": 48.75672912597656,
+      "mediana": 50.0,
+      "std": 85.28721618652344,
+      "p95_abs": 179.0,
+      "p99_abs": 296.82000732421875,
+      "skewness": 0.4277721047401428,
+      "kurtosis": 6.478883743286133,
+      "potencia_relativa": {
+        "delta": 0.3180659170332671,
+        "theta": 0.21955579568759248,
+        "low_alpha": 0.031839208175866454,
+        "high_alpha": 0.02719797887458413,
+        "low_beta": 0.04972019273740691,
+        "high_beta": 0.03801535511173734,
+        "low_gamma": 0.03214614715026869,
+        "high_gamma": 0.021948843049677248
+      },
+      "id": "2026-04-06_04-36-37",
+      "tipo": "local",
+      "poor_signal_mean": 0.0,
+      "poor_signal_max": 0,
+      "pct_abs_ge_1000": 0.0,
+      "compatibilidad": {
+        "compatible": true,
+        "std_en_rango": true,
+        "p95_en_rango": true,
+        "senal_estable": true
+      }
+    },
+    {
+      "duracion_seg": 24.74609375,
+      "media": 51.52833557128906,
+      "mediana": 76.0,
+      "std": 719.0147705078125,
+      "p95_abs": 1548.0,
+      "p99_abs": 2047.0,
+      "skewness": -0.22728732228279114,
+      "kurtosis": 0.6655387878417969,
+      "potencia_relativa": {
+        "delta": 0.20920417457126142,
+        "theta": 0.28839257167200105,
+        "low_alpha": 0.04781781128586902,
+        "high_alpha": 0.03351763402836913,
+        "low_beta": 0.08037194201208411,
+        "high_beta": 0.04778923869122048,
+        "low_gamma": 0.028835928294076697,
+        "high_gamma": 0.018648406176413983
+      },
+      "id": "2026-04-20_12-27-18",
+      "tipo": "local",
+      "poor_signal_mean": 19.574743488555644,
+      "poor_signal_max": 26,
+      "pct_abs_ge_1000": 0.15824782951854774,
+      "compatibilidad": {
+        "compatible": false,
+        "std_en_rango": false,
+        "p95_en_rango": false,
+        "senal_estable": false
+      }
+    },
+    {
+      "duracion_seg": 30.12890625,
+      "media": 48.82788848876953,
+      "mediana": 49.0,
+      "std": 107.87066650390625,
+      "p95_abs": 237.0,
+      "p99_abs": 436.0,
+      "skewness": 0.42032790184020996,
+      "kurtosis": 4.150027751922607,
+      "potencia_relativa": {
+        "delta": 0.3036139827065143,
+        "theta": 0.3214952237617209,
+        "low_alpha": 0.030518599581913015,
+        "high_alpha": 0.017584338097914053,
+        "low_beta": 0.02369442940515949,
+        "high_beta": 0.012237766732599416,
+        "low_gamma": 0.009561505768662626,
+        "high_gamma": 0.00498213697760362
+      },
+      "id": "2026-04-21_16-46-26",
+      "tipo": "local",
+      "poor_signal_mean": 0.0,
+      "poor_signal_max": 0,
+      "pct_abs_ge_1000": 0.0,
+      "compatibilidad": {
+        "compatible": true,
+        "std_en_rango": true,
+        "p95_en_rango": true,
+        "senal_estable": true
+      }
+    }
+  ],
+  "publico_all": {
+    "n": 46,
+    "duracion_seg_media": 197.04347826086956,
+    "std_media": 129.23648917156717,
+    "p95_abs_media": 202.59072444749916,
+    "std_q10": 57.0523624420166,
+    "std_q50": 101.1060676574707,
+    "std_q90": 208.5589141845703,
+    "p95_q10": 99.89165496826172,
+    "p95_q50": 176.3624725341797,
+    "p95_q90": 355.9888153076172,
+    "potencia_relativa_media": {
+      "delta": 0.6992577481770066,
+      "theta": 0.08801707550000462,
+      "low_alpha": 0.012811718530511648,
+      "high_alpha": 0.0080722006959671,
+      "low_beta": 0.021357026660702015,
+      "high_beta": 0.02342025647953776,
+      "low_gamma": 0.01622539380041269,
+      "high_gamma": 0.013556395355517625
+    }
+  },
+  "publico_hc": {
+    "n": 16,
+    "duracion_seg_media": 191.5625,
+    "std_media": 99.14750528335571,
+    "p95_abs_media": 180.40914106369019,
+    "std_q10": 53.420644760131836,
+    "std_q50": 93.42085266113281,
+    "std_q90": 166.95169067382812,
+    "p95_q10": 103.6461410522461,
+    "p95_q50": 157.2195053100586,
+    "p95_q90": 295.3213195800781,
+    "potencia_relativa_media": {
+      "delta": 0.6453427722275779,
+      "theta": 0.09511249148568576,
+      "low_alpha": 0.012194698828694313,
+      "high_alpha": 0.008016560512056412,
+      "low_beta": 0.02487012478114689,
+      "high_beta": 0.03735706474058275,
+      "low_gamma": 0.027775288315449093,
+      "high_gamma": 0.02253736626155187
+    }
+  },
+  "publico_pd": {
+    "n": 30,
+    "duracion_seg_media": 199.96666666666667,
+    "std_media": 145.28394724527996,
+    "p95_abs_media": 214.42090225219727,
+    "std_q10": 60.817328262329106,
+    "std_q50": 107.46606063842773,
+    "std_q90": 224.93452301025394,
+    "p95_q10": 100.11271286010742,
+    "p95_q50": 179.77882385253906,
+    "p95_q90": 362.1339019775391,
+    "potencia_relativa_media": {
+      "delta": 0.7280124020167019,
+      "theta": 0.08423285364097467,
+      "low_alpha": 0.013140795704814226,
+      "high_alpha": 0.008101875460719467,
+      "low_beta": 0.019483374329798082,
+      "high_beta": 0.015987292073647096,
+      "low_gamma": 0.01006545005905994,
+      "high_gamma": 0.008766544205632693
+    }
+  },
+  "vecinos": {
+    "2026-04-06_04-36-37": [
+      {
+        "distancia": 2.7894,
+        "id": "sub-pd11_ses-on",
+        "etiqueta": 1
+      },
+      {
+        "distancia": 3.3484,
+        "id": "sub-pd6_ses-on",
+        "etiqueta": 1
+      },
+      {
+        "distancia": 3.5045,
+        "id": "sub-pd5_ses-on",
+        "etiqueta": 1
+      },
+      {
+        "distancia": 4.1547,
+        "id": "sub-hc10_ses-hc",
+        "etiqueta": 0
+      },
+      {
+        "distancia": 4.5139,
+        "id": "sub-pd12_ses-off",
+        "etiqueta": 1
+      }
+    ],
+    "2026-04-20_12-27-18": [
+      {
+        "distancia": 12.777,
+        "id": "sub-pd12_ses-off",
+        "etiqueta": 1
+      },
+      {
+        "distancia": 13.357,
+        "id": "sub-pd9_ses-off",
+        "etiqueta": 1
+      },
+      {
+        "distancia": 13.691,
+        "id": "sub-hc25_ses-hc",
+        "etiqueta": 0
+      },
+      {
+        "distancia": 13.9054,
+        "id": "sub-pd11_ses-off",
+        "etiqueta": 1
+      },
+      {
+        "distancia": 14.3554,
+        "id": "sub-pd5_ses-off",
+        "etiqueta": 1
+      }
+    ],
+    "2026-04-21_16-46-26": [
+      {
+        "distancia": 2.6686,
+        "id": "sub-pd6_ses-on",
+        "etiqueta": 1
+      },
+      {
+        "distancia": 4.7472,
+        "id": "sub-pd11_ses-on",
+        "etiqueta": 1
+      },
+      {
+        "distancia": 4.7538,
+        "id": "sub-hc10_ses-hc",
+        "etiqueta": 0
+      },
+      {
+        "distancia": 5.0612,
+        "id": "sub-hc2_ses-hc",
+        "etiqueta": 0
+      },
+      {
+        "distancia": 5.1868,
+        "id": "sub-pd12_ses-off",
+        "etiqueta": 1
+      }
+    ]
+  }
+}
