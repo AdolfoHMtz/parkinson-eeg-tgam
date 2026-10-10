@@ -39,7 +39,7 @@ flowchart LR
     D --> F[2 s windows<br/>50 % overlap]
     F --> G[GAF 128×128]
     G --> H[2D CNN]
-    H --> I[P&#40;Parkinson&#41;]
+    H --> I["P(Parkinson)"]
 ```
 
 **Data.** The model is trained on [OpenNeuro ds002778](https://openneuro.org/datasets/ds002778)

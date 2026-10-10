@@ -39,7 +39,7 @@ flowchart LR
     D --> F[Ventanas de 2 s<br/>50 % solapamiento]
     F --> G[GAF 128×128]
     G --> H[CNN 2D]
-    H --> I[P&#40;Parkinson&#41;]
+    H --> I["P(Parkinson)"]
 ```
 
 **Datos.** El modelo se entrena con [OpenNeuro ds002778](https://openneuro.org/datasets/ds002778)
